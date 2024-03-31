@@ -35,12 +35,12 @@ cd bob
 3. Clone the repository:
 
 ```
- git clone https://github.com/KRakeshRaki/demo.git
+ git clone https://github.com/KRakeshRaki/mobile2.git
 
  ```
 
 ```
-cd mobile1
+cd mobile2
 ```
 
 ``` 
